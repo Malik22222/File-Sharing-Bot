@@ -5,7 +5,7 @@ Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link K
 <img src="https://telegra.ph/file/58dd7794129a362be7b0f.jpg">
 
 
-### Setup Repo ini join 4 ch ngentod
+### Setup Repo ini join 3 ch dan 2 gc
 
 - Tambahkan bot ke Channel Database dengan semua izin admin
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
