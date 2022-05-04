@@ -2,7 +2,7 @@
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 
-<img src="https://telegra.ph/file/b688e58dc41a577ec1616.jpg">
+<img src="https://telegra.ph/file/58dd7794129a362be7b0f.jpg">
 
 
 ### Setup Repo ini join 4 ch ngentod
@@ -85,7 +85,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/SharingUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Lunatic0de) untu info Update bot.   
+Bergabunglah di [@virtualunion ](https://www.telegram.dog/Virtualunion) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Muhasabahku) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
