@@ -95,4 +95,4 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 - Thanks To [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
 - Our Support Group Members
 
-   **Kalo deploy kasih bintang dulu ngentod**
+   **Kalo deploy kasih bintang dulu ngentod*
