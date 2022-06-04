@@ -85,7 +85,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [@virtualunion ](https://www.telegram.dog/Virtualunion) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Muhasabahku) untu info Update bot.   
+Bergabunglah di [@storychopper ](https://www.telegram.dog/panggilsaja_m) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/storychopper) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
