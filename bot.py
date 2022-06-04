@@ -17,8 +17,6 @@ from config import (
     FORCE_SUB_CHANNEL1,
     FORCE_SUB_CHANNEL2,
     FORCE_SUB_CHANNEL3,
-    FORCE_SUB_CHANNEL4,
-    FORCE_SUB_CHANNEL5,
     FORCE_SUB_GROUP1,
    
     
@@ -90,7 +88,6 @@ class Bot(Client):
                 )
                 self.LOGGER(__name__).warning(
                     f"Silakan periksa kembali var FORCE_SUB_CHANNEL1 dan Pastikan Bot anda Admin di Channel dengan izin link invite Pengguna melalui link undangan, Subs Channel Saat Ini: {FORCE_SUB_CHANNEL}"
-     
                 )
                 sys.exit()
         if FORCE_SUB_CHANNEL2:
@@ -119,32 +116,6 @@ class Bot(Client):
                     "\nBot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
                 )
                 sys.exit(). 
-         if FORCE_SUB_CHANNEL4:
-            try:
-                link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL4)
-                self.invitelink5 = link
-            except Exception as a:
-                self.LOGGER(__name__).warning(a)
-                self.LOGGER(__name__).warning(
-                    "Bot tidak dapat Mengambil link Undangan dari FORCE_SUB_CHANNEL4!"            
-                )
-                self.LOGGER(__name__).info(
-                    "\nBot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
-                )
-                sys.exit() 
-         if FORCE_SUB_CHANNEL5:
-            try:
-                link = await self.export_chat_invite_link(FORCE_SUB_CHANNEL5)
-                self.invitelink5 = link
-            except Exception as a:
-                self.LOGGER(__name__).warning(a)
-                self.LOGGER(__name__).warning(
-                    "Bot tidak dapat Mengambil link Undangan dari FORCE_SUB_CHANNEL5!"            
-                )
-                self.LOGGER(__name__).info(
-                    "\nBot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan"
-                )
-                sys.exit()
 
         if FORCE_SUB_GROUP1:
             try:
@@ -179,7 +150,7 @@ class Bot(Client):
 
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan ke https://t.me/BdrlBukan"
+            f"[🔥 BERHASIL DIAKTIFKAN! 🔥]\n\nBOT Dibuat oleh @{OWNER}\nJika @{OWNER} Membutuhkan Bantuan, Silahkan Tanyakan ke https://t.me/panggilsaja_m"
         )
         self.username = usr_bot_me.username
 
